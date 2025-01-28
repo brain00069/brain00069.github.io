@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Brian Tan, I am the greatest business analyst alive."
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Brian Tan, I am the greatest business analyst alive."
+  },
+  {
+    "objectID": "about.html#what-is-my-mission",
+    "href": "about.html#what-is-my-mission",
+    "title": "About Me",
+    "section": "What is my mission?",
+    "text": "What is my mission?\nMy mission is to invent time travel"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "Projects",
+    "text": "Projects\nBuild time machine Build rocket Build spaceship"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brian Tan",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nEnter your biography blurb here."
+  }
+]
